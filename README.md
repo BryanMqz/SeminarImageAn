@@ -10,7 +10,7 @@ Data source is avaliable on Udacity github.
 training data: ![Ch2_002.tar.gz.torrent](https://github.com/udacity/self-driving-car/blob/master/datasets/CH2)  
 testing data: ![Ch2_001.tar.gz.torrent](https://github.com/udacity/self-driving-car/blob/master/datasets/CH2)
 
-#### 2.1 Reading Tool
+### 2.1 Reading Tool
 Data format: Rosbag
 Tool: ![udacity-driving-reader tool](https://github.com/rwightman/udacity-driving-reader) from Mr.Ross Wightman 
 ### 2.2 DataLoading
